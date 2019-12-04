@@ -1,4 +1,8 @@
-## Klov
+Modified to include WinSW and its configuration for running Klov as a service
+
+-----------------------------------------------
+
+Klov
 
 Report server for Extent Framework
 
